@@ -7,9 +7,10 @@
 🧙 and Developers <br>
 
 # Repositories
-## NBTF-Website
+some repositories are owned by @EatMYSHOORTS for website hosting
+## NBTF-Website (Seperate Owner)
 this is a mock lore website about Nuclear Blast Testing Facility found on nbtf.vercel.app
 ## .github
 this is the hello page you are reading rn
-## Civilian Blog
+## Civilian Blog (Seperate Owner)
 a mock blog page for the civilians in the game including fake news, vlogs and more!
