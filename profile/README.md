@@ -6,7 +6,7 @@
 🍿 We are Gamers <br>
 🧙 and Developers <br>
 please email cbgames.xyz@gmail.com if you want to join and send in your github, roblox, and discord username for verification
-visit nbtf.ca for website
+\ visit nbtf.ca for website
 # Repositories
 repositories that are websites are owned by others for web hosting
 ## NBTF-Website @ [web.nbtf.ca] by (@cbx-nz)
